@@ -16541,3 +16541,6 @@ Make sure '/Game/Hud_y_UI/Objeti.Objeti_C' has been compiled for  Set MainMenuSc
 [2024.11.25-07.08.19:060][984]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.11.25-07.08.19:172][984]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.11.25-07.08.19:189][984]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.25-07.08.42:885][984]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.11.25-07.08.47:045][984]LogExit: Editor shut down
+[2024.11.25-07.08.47:431][984]LogExit: Transaction tracking system shut down
